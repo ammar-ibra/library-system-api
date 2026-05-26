@@ -1,6 +1,6 @@
 #  Library Management System
 
-## 📖 Project Description
+##  Project Description
 
 Library Management System built using **Node.js**, **Express.js**, **MongoDB**, and **Mongoose**.
 
