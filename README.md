@@ -1,4 +1,4 @@
-# 📚 Library Management System
+#  Library Management System
 
 ## 📖 Project Description
 
@@ -42,7 +42,7 @@ npm install dotenv mongoose nodemon express
 npm run watch
 ```
 
-# 📚 Collections
+#  Collections
 
 ## Users
 
@@ -97,7 +97,7 @@ Allows members to rate and review materials.
 
 ---
 
-# 📮 Example Requests
+#  Example Requests
 
 ## Create User
 
